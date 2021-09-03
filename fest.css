@@ -1,0 +1,89 @@
+.aboutt{
+    text-align: center;
+    color: rgb(12, 12, 51);
+    font-size: 40px;
+    margin-top: -180px;
+}
+.heading{
+    color: rgb(40, 40, 114);
+}
+.about-para{
+    color: rgb(2, 19, 19);
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    word-spacing: 20px;
+}
+.aboutrt{
+    color: black;
+    text-decoration: none;
+    cursor:pointer;
+}
+.foooter{
+    background-color: rgba(0, 0, 0, 0.445);
+}
+.footer{
+    color: wheat;
+    text-align: center;
+}.foot{
+    text-align: center;
+  
+    margin-bottom: 20px;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 15px;
+}
+
+.li{
+    
+
+    border-radius: 50px;
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+}
+.li :hover{
+   transform: scale(1.4);
+}
+.fa-instagram{
+    color: #e84393;
+}
+.fa-linkedin{
+    color: #0097e6;
+}
+.fa-facebook{
+    color: #4267B2;
+}
+.fa-envelope{
+    color: #EA4335;
+}
+.footer-link:hover{
+    color: darkturquoise;
+}
+.opa{
+    opacity: .3;
+}
+.opa:hover{
+    opacity: 1;
+}
+.apply
+{
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px ;
+    margin-bottom: 40px ;
+}
+.appply{
+    height: 38px;
+    width: 150px;
+    color: rgb(69, 10, 209);
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: linear-gradient(to right , rgb(110, 110, 235),pink);
+}
+.appply:hover{
+    height: 45px;
+    width: 180px;
+    font-size: 20px;
+    font-family: cursive;
+}
